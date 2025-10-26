@@ -4,13 +4,15 @@
 
 ---
 
-# Hi, I'm Brandon Gill 👋
+# Hi, I'm Brandon Gill
 **A full-stack developer and Oregon State University CS student building efficient, modern web applications.**
 
 ---
 
-## About Me 🧑‍💻
+## About Me
 I'm a Computer Science student at Oregon State University, specializing in AI and enrolled in the Accelerated Master's Platform (AMP). I'm always searching for opportunities to apply my skills to new challenges, projects, and opportunities.
+
+In my free time, I enjoy playing tennis on the OSU Club Tennis team, going on hikes, learning about investing, playing/watching basketball, and gaining trophies in Clash Royale.
 
 ---
 
@@ -101,7 +103,7 @@ _A full-stack app that captures and converts audio input into structured text no
 ---
 
  - **LLM-Driven Software Migration**
-  _Testing the validity of a semi-automated pipeline using **LLMs** to translate robust, but hard-to-maintain, legacy scientific software (e.g., **Fortran**) into modern, extensible languages (e.g.,     **C++** or **Rust**)._
+  _Testing the validity of a semi-automated pipeline using **LLMs** to translate robust, but hard-to-maintain, legacy scientific software (e.g., **Fortran**) into modern, extensible languages (e.g., **C++** or **Rust**)._
 
   Features in development:
   - Ingesting and parsing legacy **Fortran** code from scientific domains (e.g., fluid dynamics, computational physics).
