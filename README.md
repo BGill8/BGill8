@@ -12,7 +12,7 @@
 ## About Me
 I'm a Computer Science student at Oregon State University, specializing in AI and enrolled in the Accelerated Master's Platform (AMP). I'm always searching for opportunities to apply my skills to new challenges, projects, and opportunities.
 
-In my free time, I enjoy playing tennis on the OSU Club Tennis team, going on hikes, learning about investing, playing/watching basketball, and gaining trophies in Clash Royale.
+In my free time, I enjoy playing tennis on the OSU Club Tennis team, going on hikes, learning about investing, and playing/watching basketball.
 
 ---
 
