@@ -9,7 +9,7 @@
 ---
 
 ## About Me
-I'm a third year Computer Science student at Oregon State University, specializing in AI and enrolled in the Accelerated Master's Platform (AMP). I'm always searching for opportunities to apply my skills to new challenges, projects, and opportunities.
+I'm a third year Computer Science student at Oregon State University, specializing in AI and enrolled in the Accelerated Master's Platform (AMP). I want to leverage Artificial Intelligence to build real world applications with meaningful impact. I'm always searching for opportunities to apply my skills to new challenges, projects, and opportunities.
 
 In my free time, I enjoy playing tennis on the OSU Club Tennis team, going on hikes, learning about investing, and playing/watching basketball.
 
