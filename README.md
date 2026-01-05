@@ -15,7 +15,7 @@ In my free time, I enjoy playing tennis on the OSU Club Tennis team, going on hi
 
 ---
 
-## Tech & Tools 🛠️
+## Technical Skills
 
 <p align="center">
   <strong>Languages:</strong>
@@ -111,7 +111,7 @@ _A full-stack app that captures and converts audio input into structured text no
   - A **human-in-the-loop** verification system to allow expert developers to correct, annotate, and approve translations.
 ---
 
-## Connect With Me 📬
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/brandonkngill)
 [![Website](https://img.shields.io/badge/Website-brandongill.dev-000000?logo=About.me&logoColor=white)](https://brandongill.dev)
